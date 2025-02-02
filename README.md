@@ -16,28 +16,6 @@ This project is a **Scoreboard** built to efficiently track scores for various g
 
 [Live Demo](https://scoreboard-five-coral.vercel.app/) 
 
-## 📦 Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/scoreboard.git
-   ```
-2. **Navigate to the project directory:**
-   ```bash
-   cd scoreboard
-   ```
-3. **Open ********`index.html`******** in your browser:**
-   ```bash
-   open index.html
-   ```
-   *or simply double-click ****`index.html`****.*
-
-## ⚙️ Usage
-
-1. Open the scoreboard interface.
-2. Use the buttons to increment or decrement scores.
-3. Click the **"Reset"** button to start fresh.
-
 ## 📋 Technologies Used
 
 - **HTML5**
@@ -53,20 +31,6 @@ scoreboard/
 └── script.js
 ```
 
-## 📥 Download
-
-If you'd like to use this project:
-
-1. **Download the repository as a ZIP file:**
-   - Click the **"Code"** button on the repository page.
-   - Select **"Download ZIP"**.
-2. **Extract the ZIP file.**
-3. **Open ********`index.html`******** in your browser:**
-   - Double-click `index.html` to launch the app.
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## 🙌 Acknowledgments
 
