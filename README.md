@@ -6,8 +6,7 @@ This project is a **Scoreboard** built to efficiently track scores for various g
 
 ## 🔑 Features
 
-- Add and subtract points with ease
-- Reset scores with a single click
+- Add points with ease
 - Responsive design for mobile and desktop
 - Real-time score updates without page reloads
 - Clean, user-friendly interface
